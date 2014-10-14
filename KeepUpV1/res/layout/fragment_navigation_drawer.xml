@@ -1,0 +1,12 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#4c69e2"
+    android:choiceMode="singleChoice"
+    android:divider="#80a4ff"
+    android:dividerHeight="1dp"
+    android:entries="@array/slider_menu_options"
+    tools:context="com.keepupv1.NavigationDrawerFragment" />
+
